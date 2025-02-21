@@ -14,29 +14,23 @@ SmartEnroll is a new system designed as an extension of USF’s existing academi
 
 ## 4. Functional Requirements
 
-- Real-time degree progress tracking.
+- [Real-time degree progress tracking.](https://github.com/patbied/SmartEnroll-Requirements/issues/2)
 
-- Automated prerequisite verification before course registration.
+- [Automated prerequisite verification before course registration.](https://github.com/patbied/SmartEnroll-Requirements/issues/3)
 
-- Schedule conflict detection and alerts.
+- [Schedule conflict detection and alerts.](https://github.com/patbied/SmartEnroll-Requirements/issues/6)
 
-- Automated registration deadline reminders.
-
-- Advisor-student collaboration tools within the platform.
-
-- Role-based access for students, advisors, and administrators.
+- [Automated registration deadline reminders.](https://github.com/patbied/SmartEnroll-Requirements/issues/7)
 
 ## 5. Non-Functional Requirements
 
-- High availability and reliability to support peak registration periods.
+- [High availability and reliability to support peak registration periods.](https://github.com/patbied/SmartEnroll-Requirements/issues/10)
 
-- User-friendly interface with modern UI/UX standards.
+- [User-friendly interface with modern UI/UX standards.](https://github.com/patbied/SmartEnroll-Requirements/issues/4)
 
-- Secure authentication and data privacy compliance.
+- [Secure authentication and data privacy compliance.](https://github.com/patbied/SmartEnroll-Requirements/issues/11)
 
-- Fast response times for data queries and updates.
-
-- Accessibility features for diverse student populations.
+- [Fast response times for data queries and updates.](https://github.com/patbied/SmartEnroll-Requirements/issues/5)
 
 ## 6. Constraints
 
