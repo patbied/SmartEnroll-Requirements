@@ -60,6 +60,8 @@ SmartEnroll is a new system designed as an extension of USF’s existing academi
 
 - UI/UX design based on modern web design principles.
 
+- Follow Ruby coding standards for any Ruby components.
+
 ## 8. Assumptions
 
 - USF IT Department will provide API access to DegreeWorks and OASIS.
@@ -90,8 +92,4 @@ SmartEnroll is a new system designed as an extension of USF’s existing academi
 
 ## 11. References
 
-- USF DegreeWorks Documentation
-
-- USF OASIS User Guide
-
-- USF Data Privacy Policy
+Currently, there are no references available.
