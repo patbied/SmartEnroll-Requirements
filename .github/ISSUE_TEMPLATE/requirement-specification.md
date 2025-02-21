@@ -1,9 +1,10 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Requirement Specification
+about: Specify a requirement discovered.
 title: ''
 labels: ''
 assignees: ''
+content: Describe the needs and expectations of end users Describe how this requirement is discovered Is the requirement [insert the qualities of a good requirement] Additional details
 
 ---
 
