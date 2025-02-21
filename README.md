@@ -56,7 +56,7 @@ SmartEnroll is a new system designed as an extension of USF’s existing academi
 
 - Development using Ruby on Rails.
 
-- Coding and quality standards set by MicroBase, Inc.
+- Coding and quality standards.
 
 - UI/UX design based on modern web design principles.
 
@@ -95,5 +95,3 @@ SmartEnroll is a new system designed as an extension of USF’s existing academi
 - USF OASIS User Guide
 
 - USF Data Privacy Policy
-
-- MicroBase, Inc. Coding Standards
